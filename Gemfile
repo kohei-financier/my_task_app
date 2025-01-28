@@ -58,4 +58,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "tailwindcss-rails", "~> 4.0.0.rc1", github: "rails/tailwindcss-rails", branch: "main"
+gem "tailwindcss-rails", "~> 4.0.0.rc4", github: "rails/tailwindcss-rails", branch: "main"
